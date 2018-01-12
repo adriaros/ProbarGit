@@ -8,7 +8,9 @@
 
 /* Begin PBXBuildFile section */
 		E743DEAD2008C7D000EADD8F /* RamaBorja.swift in Sources */ = {isa = PBXBuildFile; fileRef = E743DEAC2008C7D000EADD8F /* RamaBorja.swift */; };
+
 		FB3AE43C2008D75100D42EC8 /* Adria2.swift in Sources */ = {isa = PBXBuildFile; fileRef = FB3AE43B2008D75100D42EC8 /* Adria2.swift */; };
+
 		FB9A07362008AF0E004C7918 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = FB9A07352008AF0E004C7918 /* AppDelegate.swift */; };
 		FB9A07382008AF0E004C7918 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = FB9A07372008AF0E004C7918 /* ViewController.swift */; };
 		FB9A073B2008AF0E004C7918 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = FB9A07392008AF0E004C7918 /* Main.storyboard */; };
@@ -37,6 +39,7 @@
 
 /* Begin PBXFileReference section */
 		E743DEAC2008C7D000EADD8F /* RamaBorja.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = RamaBorja.swift; sourceTree = "<group>"; };
+		E743DEAF2008D76700EADD8F /* Borja.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Borja.swift; sourceTree = "<group>"; };
 		FB3AE4392008D30900D42EC8 /* Adria.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Adria.swift; sourceTree = "<group>"; };
 		FB3AE43B2008D75100D42EC8 /* Adria2.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Adria2.swift; sourceTree = "<group>"; };
 		FB9A07322008AF0E004C7918 /* PruebasGitApp.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = PruebasGitApp.app; sourceTree = BUILT_PRODUCTS_DIR; };
@@ -79,6 +82,14 @@
 /* End PBXFrameworksBuildPhase section */
 
 /* Begin PBXGroup section */
+		E743DEAE2008D74A00EADD8F /* Rama2Borja */ = {
+			isa = PBXGroup;
+			children = (
+				E743DEAF2008D76700EADD8F /* Borja.swift */,
+			);
+			path = Rama2Borja;
+			sourceTree = "<group>";
+		};
 		FB3AE4362008BC7E00D42EC8 /* Adria */ = {
 			isa = PBXGroup;
 			children = (
@@ -118,7 +129,9 @@
 		FB9A07342008AF0E004C7918 /* PruebasGitApp */ = {
 			isa = PBXGroup;
 			children = (
+
 				FB3AE43A2008D73A00D42EC8 /* Adria2 */,
+
 				FB3AE4362008BC7E00D42EC8 /* Adria */,
 				FB9A07352008AF0E004C7918 /* AppDelegate.swift */,
 				FB9A07372008AF0E004C7918 /* ViewController.swift */,
@@ -283,6 +296,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				E743DEB02008D76700EADD8F /* Borja.swift in Sources */,
 				FB9A07382008AF0E004C7918 /* ViewController.swift in Sources */,
 				E743DEAD2008C7D000EADD8F /* RamaBorja.swift in Sources */,
 				FB3AE43C2008D75100D42EC8 /* Adria2.swift in Sources */,
