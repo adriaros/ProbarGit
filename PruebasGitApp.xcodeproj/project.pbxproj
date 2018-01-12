@@ -7,7 +7,9 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
-		FB3AE4382008BC8C00D42EC8 /* Adria.swift in Sources */ = {isa = PBXBuildFile; fileRef = FB3AE4372008BC8C00D42EC8 /* Adria.swift */; };
+
+		E743DEAD2008C7D000EADD8F /* RamaBorja.swift in Sources */ = {isa = PBXBuildFile; fileRef = E743DEAC2008C7D000EADD8F /* RamaBorja.swift */; };
+    
 		FB9A07362008AF0E004C7918 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = FB9A07352008AF0E004C7918 /* AppDelegate.swift */; };
 		FB9A07382008AF0E004C7918 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = FB9A07372008AF0E004C7918 /* ViewController.swift */; };
 		FB9A073B2008AF0E004C7918 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = FB9A07392008AF0E004C7918 /* Main.storyboard */; };
@@ -35,7 +37,9 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
-		FB3AE4372008BC8C00D42EC8 /* Adria.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Adria.swift; sourceTree = "<group>"; };
+
+		E743DEAC2008C7D000EADD8F /* RamaBorja.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = RamaBorja.swift; sourceTree = "<group>"; };
+
 		FB9A07322008AF0E004C7918 /* PruebasGitApp.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = PruebasGitApp.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		FB9A07352008AF0E004C7918 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		FB9A07372008AF0E004C7918 /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
@@ -114,6 +118,7 @@
 				FB9A073C2008AF0E004C7918 /* Assets.xcassets */,
 				FB9A073E2008AF0E004C7918 /* LaunchScreen.storyboard */,
 				FB9A07412008AF0E004C7918 /* Info.plist */,
+				E743DEAC2008C7D000EADD8F /* RamaBorja.swift */,
 			);
 			path = PruebasGitApp;
 			sourceTree = "<group>";
@@ -272,6 +277,7 @@
 			files = (
 				FB3AE4382008BC8C00D42EC8 /* Adria.swift in Sources */,
 				FB9A07382008AF0E004C7918 /* ViewController.swift in Sources */,
+				E743DEAD2008C7D000EADD8F /* RamaBorja.swift in Sources */,
 				FB9A07362008AF0E004C7918 /* AppDelegate.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
