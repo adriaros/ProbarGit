@@ -1,3 +1,14 @@
 {
-  "newCash": 1,
+  "newCash": {
+    "fb_month": 1555.38,
+    "fb_year": 14643.89,
+    "group_month": 21555.38,
+    "group_year": 214643.89
+  },
+  "netUptake": {
+    "fb_month": 545.32,
+    "fb_year": 4643.09,
+    "group_month": 41535.85,
+    "group_year": 114643.32
+  }
 }
