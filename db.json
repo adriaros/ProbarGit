@@ -11,16 +11,6 @@
     "group_month": 41535.85,
     "group_year": 114643.32
   },
-  "patrimony_array": [
-    {
-      "id": 1,
-      "body": "some comment",
-      "postId": 1
-    },
-    {
-      "id": 2,
-      "body": "some comment",
-      "postId": 1
-    }
-  ]
+  "patrimony_array": [ 15620.54, 2598.47, 10083.21, 6532.59 ],
+  "group_patrimony": [ 5620.54, 3598.47, 7083.21, 4532.59 ]
 }
